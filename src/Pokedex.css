@@ -1,0 +1,11 @@
+.Pokedex-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.Pokedex-title {
+    margin-top: 25px;
+    font-family: 'Orbitron', sans-serif;
+}
